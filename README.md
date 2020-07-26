@@ -7,8 +7,9 @@
 - Модели оптимизировались с помощью GridsearchCV для достижения лучшего результата. 
 
 # Ресурсы
-Python Version: 3.6.8
-Packages: pandas, numpy, scipy, pytorch, sklearn, catboost, matplotlib, seaborn, h5py
+**Python Version:** 3.6.8
+
+**Packages:** pandas, numpy, scipy, pytorch, sklearn, catboost, matplotlib, seaborn, h5py
 
 # Ключевые идеи
 - **Матрица признаков** определяется для набора сокращений, в котором для каждого из них поставлено в соответствие значение определенного признака. Матрица представляет собой двумерный тензор, где каждый элемент получен путем деления признака i-го сокращения на признак j-го сокращения:
